@@ -1,11 +1,11 @@
-About r-rmallow
-===============
+About r-rmallow-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmallow-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RMallow
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmallow-feedstock/blob/main/LICENSE.txt)
 
 Summary: An EM algorithm to fit Mallows' Models to full or partial rankings, with or without ties.
 
